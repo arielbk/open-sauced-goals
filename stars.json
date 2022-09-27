@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "luism6n/insort",
+    "stargazers_count": 15,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "Avansai/next-multilingual",
     "stargazers_count": 143,
     "open_issues_count": 1,
@@ -7,9 +13,9 @@
   },
   {
     "full_name": "AykutSarac/jsoncrack.com",
-    "stargazers_count": 14629,
+    "stargazers_count": 15352,
     "open_issues_count": 47,
-    "forks_count": 664
+    "forks_count": 711
   },
   {
     "full_name": "arielbk/pointer-animation",
@@ -19,19 +25,19 @@
   },
   {
     "full_name": "reuseman/flashcards-obsidian",
-    "stargazers_count": 438,
-    "open_issues_count": 40,
+    "stargazers_count": 441,
+    "open_issues_count": 41,
     "forks_count": 40
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 234133,
+    "stargazers_count": 234666,
     "open_issues_count": 46,
-    "forks_count": 62662
+    "forks_count": 62779
   },
   {
     "full_name": "testing-library/testing-library-recorder-extension",
-    "stargazers_count": 113,
+    "stargazers_count": 114,
     "open_issues_count": 15,
     "forks_count": 0
   },
@@ -49,21 +55,21 @@
   },
   {
     "full_name": "strapi-community/strapi-tool-dockerize",
-    "stargazers_count": 88,
+    "stargazers_count": 90,
     "open_issues_count": 2,
     "forks_count": 5
   },
   {
     "full_name": "btholt/complete-intro-to-containers",
-    "stargazers_count": 775,
+    "stargazers_count": 776,
     "open_issues_count": 27,
     "forks_count": 166
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 24530,
-    "open_issues_count": 14741,
-    "forks_count": 2377
+    "stargazers_count": 24658,
+    "open_issues_count": 14895,
+    "forks_count": 2386
   },
   {
     "full_name": "ossjs/release",
@@ -73,38 +79,38 @@
   },
   {
     "full_name": "trane-project/trane-cli",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "trane-project/trane",
-    "stargazers_count": 474,
+    "stargazers_count": 488,
     "open_issues_count": 0,
     "forks_count": 11
   },
   {
     "full_name": "sindresorhus/type-fest",
-    "stargazers_count": 8852,
-    "open_issues_count": 109,
-    "forks_count": 312
+    "stargazers_count": 8888,
+    "open_issues_count": 111,
+    "forks_count": 314
   },
   {
     "full_name": "PlasmoHQ/plasmo",
-    "stargazers_count": 4249,
+    "stargazers_count": 4287,
     "open_issues_count": 22,
-    "forks_count": 88
+    "forks_count": 90
   },
   {
     "full_name": "espanso/espanso",
-    "stargazers_count": 5787,
-    "open_issues_count": 274,
-    "forks_count": 172
+    "stargazers_count": 5810,
+    "open_issues_count": 277,
+    "forks_count": 173
   },
   {
     "full_name": "RimacTechnology/eslint-config-rimac",
-    "stargazers_count": 6,
-    "open_issues_count": 13,
+    "stargazers_count": 8,
+    "open_issues_count": 14,
     "forks_count": 0
   },
   {
@@ -115,32 +121,32 @@
   },
   {
     "full_name": "mattdesl/workshop-generative-art",
-    "stargazers_count": 1237,
+    "stargazers_count": 1238,
     "open_issues_count": 5,
-    "forks_count": 242
+    "forks_count": 243
   },
   {
     "full_name": "lowlighter/metrics",
-    "stargazers_count": 8385,
-    "open_issues_count": 17,
-    "forks_count": 941
+    "stargazers_count": 8408,
+    "open_issues_count": 19,
+    "forks_count": 943
   },
   {
     "full_name": "amannn/action-semantic-pull-request",
     "stargazers_count": 417,
-    "open_issues_count": 12,
-    "forks_count": 63
+    "open_issues_count": 10,
+    "forks_count": 64
   },
   {
     "full_name": "acacode/swagger-typescript-api",
-    "stargazers_count": 1354,
-    "open_issues_count": 94,
+    "stargazers_count": 1378,
+    "open_issues_count": 98,
     "forks_count": 194
   },
   {
     "full_name": "timolins/react-hot-toast",
-    "stargazers_count": 5802,
-    "open_issues_count": 70,
+    "stargazers_count": 5822,
+    "open_issues_count": 69,
     "forks_count": 192
   },
   {
@@ -151,32 +157,26 @@
   },
   {
     "full_name": "suren-atoyan/monaco-react",
-    "stargazers_count": 2020,
-    "open_issues_count": 58,
+    "stargazers_count": 2031,
+    "open_issues_count": 60,
     "forks_count": 152
   },
   {
     "full_name": "sw-yx/spark-joy",
-    "stargazers_count": 7428,
+    "stargazers_count": 7446,
     "open_issues_count": 5,
-    "forks_count": 276
+    "forks_count": 279
   },
   {
     "full_name": "bkrem/awesome-solidity",
-    "stargazers_count": 5177,
+    "stargazers_count": 5200,
     "open_issues_count": 5,
-    "forks_count": 737
+    "forks_count": 738
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 39046,
-    "open_issues_count": 298,
-    "forks_count": 2383
-  },
-  {
-    "full_name": "strapi/strapi",
-    "stargazers_count": 47936,
-    "open_issues_count": 396,
-    "forks_count": 5865
+    "stargazers_count": 39145,
+    "open_issues_count": 247,
+    "forks_count": 2396
   }
 ]
