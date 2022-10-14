@@ -1,13 +1,19 @@
 [
   {
+    "full_name": "ofou/graham-essays",
+    "stargazers_count": 287,
+    "open_issues_count": 1,
+    "forks_count": 15
+  },
+  {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 152641,
+    "stargazers_count": 152901,
     "open_issues_count": 272,
-    "forks_count": 25468
+    "forks_count": 25517
   },
   {
     "full_name": "mkosir/react-parallax-tilt",
-    "stargazers_count": 546,
+    "stargazers_count": 547,
     "open_issues_count": 0,
     "forks_count": 88
   },
@@ -25,31 +31,31 @@
   },
   {
     "full_name": "dataarts/webgl-globe",
-    "stargazers_count": 3380,
+    "stargazers_count": 3382,
     "open_issues_count": 30,
-    "forks_count": 1179
+    "forks_count": 1180
   },
   {
     "full_name": "snaplet/postgres-wasm",
-    "stargazers_count": 1545,
+    "stargazers_count": 1618,
     "open_issues_count": 5,
-    "forks_count": 39
+    "forks_count": 41
   },
   {
     "full_name": "Rezmason/matrix",
-    "stargazers_count": 2426,
-    "open_issues_count": 7,
+    "stargazers_count": 2449,
+    "open_issues_count": 5,
     "forks_count": 122
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 7838,
-    "open_issues_count": 12,
-    "forks_count": 318
+    "stargazers_count": 7900,
+    "open_issues_count": 6,
+    "forks_count": 321
   },
   {
     "full_name": "luism6n/insort",
-    "stargazers_count": 19,
+    "stargazers_count": 20,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -57,13 +63,13 @@
     "full_name": "Avansai/next-multilingual",
     "stargazers_count": 144,
     "open_issues_count": 1,
-    "forks_count": 4
+    "forks_count": 6
   },
   {
     "full_name": "AykutSarac/jsoncrack.com",
-    "stargazers_count": 17563,
-    "open_issues_count": 60,
-    "forks_count": 823
+    "stargazers_count": 18186,
+    "open_issues_count": 61,
+    "forks_count": 860
   },
   {
     "full_name": "arielbk/pointer-animation",
@@ -73,15 +79,15 @@
   },
   {
     "full_name": "reuseman/flashcards-obsidian",
-    "stargazers_count": 462,
+    "stargazers_count": 470,
     "open_issues_count": 48,
     "forks_count": 41
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 235670,
+    "stargazers_count": 235865,
     "open_issues_count": 48,
-    "forks_count": 63032
+    "forks_count": 63100
   },
   {
     "full_name": "testing-library/testing-library-recorder-extension",
@@ -97,14 +103,14 @@
   },
   {
     "full_name": "kwinyyyc/strapi-plugin-wysiwyg-react-md-editor",
-    "stargazers_count": 22,
+    "stargazers_count": 24,
     "open_issues_count": 4,
     "forks_count": 5
   },
   {
     "full_name": "strapi-community/strapi-tool-dockerize",
-    "stargazers_count": 102,
-    "open_issues_count": 4,
+    "stargazers_count": 104,
+    "open_issues_count": 3,
     "forks_count": 6
   },
   {
@@ -115,9 +121,9 @@
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 25464,
-    "open_issues_count": 15416,
-    "forks_count": 2465
+    "stargazers_count": 25781,
+    "open_issues_count": 15523,
+    "forks_count": 2485
   },
   {
     "full_name": "ossjs/release",
@@ -139,26 +145,26 @@
   },
   {
     "full_name": "sindresorhus/type-fest",
-    "stargazers_count": 9013,
-    "open_issues_count": 117,
-    "forks_count": 322
+    "stargazers_count": 9052,
+    "open_issues_count": 119,
+    "forks_count": 325
   },
   {
     "full_name": "PlasmoHQ/plasmo",
-    "stargazers_count": 4343,
-    "open_issues_count": 21,
+    "stargazers_count": 4371,
+    "open_issues_count": 19,
     "forks_count": 95
   },
   {
     "full_name": "espanso/espanso",
-    "stargazers_count": 5966,
-    "open_issues_count": 281,
-    "forks_count": 176
+    "stargazers_count": 5990,
+    "open_issues_count": 285,
+    "forks_count": 177
   },
   {
     "full_name": "RimacTechnology/eslint-config-rimac",
     "stargazers_count": 8,
-    "open_issues_count": 15,
+    "open_issues_count": 13,
     "forks_count": 0
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 1240,
     "open_issues_count": 5,
     "forks_count": 243
-  },
-  {
-    "full_name": "lowlighter/metrics",
-    "stargazers_count": 8527,
-    "open_issues_count": 18,
-    "forks_count": 975
   }
 ]
