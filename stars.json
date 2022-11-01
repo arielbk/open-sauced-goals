@@ -1,13 +1,13 @@
 [
   {
     "full_name": "ComfortablyCoding/strapi-plugin-transformer",
-    "stargazers_count": 58,
+    "stargazers_count": 59,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "SalvatorePreviti/js13k-2022",
-    "stargazers_count": 76,
+    "stargazers_count": 79,
     "open_issues_count": 0,
     "forks_count": 8
   },
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 153452,
-    "open_issues_count": 275,
-    "forks_count": 25640
+    "stargazers_count": 153766,
+    "open_issues_count": 277,
+    "forks_count": 25673
   },
   {
     "full_name": "mkosir/react-parallax-tilt",
-    "stargazers_count": 568,
+    "stargazers_count": 572,
     "open_issues_count": 0,
     "forks_count": 89
   },
@@ -43,33 +43,33 @@
   },
   {
     "full_name": "dataarts/webgl-globe",
-    "stargazers_count": 3389,
+    "stargazers_count": 3392,
     "open_issues_count": 30,
     "forks_count": 1179
   },
   {
     "full_name": "snaplet/postgres-wasm",
-    "stargazers_count": 1819,
+    "stargazers_count": 1838,
     "open_issues_count": 5,
-    "forks_count": 51
+    "forks_count": 53
   },
   {
     "full_name": "Rezmason/matrix",
-    "stargazers_count": 2585,
-    "open_issues_count": 5,
-    "forks_count": 129
+    "stargazers_count": 2607,
+    "open_issues_count": 6,
+    "forks_count": 130
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 8449,
-    "open_issues_count": 12,
-    "forks_count": 352
+    "stargazers_count": 8612,
+    "open_issues_count": 11,
+    "forks_count": 359
   },
   {
     "full_name": "luism6n/insort",
     "stargazers_count": 22,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "Avansai/next-multilingual",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "AykutSarac/jsoncrack.com",
-    "stargazers_count": 18644,
-    "open_issues_count": 64,
-    "forks_count": 897
+    "stargazers_count": 18726,
+    "open_issues_count": 36,
+    "forks_count": 902
   },
   {
     "full_name": "arielbk/pointer-animation",
@@ -91,25 +91,25 @@
   },
   {
     "full_name": "reuseman/flashcards-obsidian",
-    "stargazers_count": 489,
-    "open_issues_count": 53,
+    "stargazers_count": 495,
+    "open_issues_count": 57,
     "forks_count": 46
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 236538,
-    "open_issues_count": 50,
-    "forks_count": 63332
+    "stargazers_count": 236978,
+    "open_issues_count": 51,
+    "forks_count": 63404
   },
   {
     "full_name": "testing-library/testing-library-recorder-extension",
-    "stargazers_count": 119,
+    "stargazers_count": 120,
     "open_issues_count": 16,
     "forks_count": 0
   },
   {
     "full_name": "cypress-io/cypress-recorder-extension",
-    "stargazers_count": 104,
+    "stargazers_count": 105,
     "open_issues_count": 2,
     "forks_count": 2
   },
@@ -121,21 +121,21 @@
   },
   {
     "full_name": "strapi-community/strapi-tool-dockerize",
-    "stargazers_count": 110,
-    "open_issues_count": 3,
+    "stargazers_count": 113,
+    "open_issues_count": 2,
     "forks_count": 7
   },
   {
     "full_name": "btholt/complete-intro-to-containers",
-    "stargazers_count": 780,
+    "stargazers_count": 781,
     "open_issues_count": 27,
     "forks_count": 166
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 26195,
-    "open_issues_count": 16099,
-    "forks_count": 2556
+    "stargazers_count": 26300,
+    "open_issues_count": 16276,
+    "forks_count": 2572
   },
   {
     "full_name": "ossjs/release",
@@ -151,27 +151,27 @@
   },
   {
     "full_name": "trane-project/trane",
-    "stargazers_count": 499,
+    "stargazers_count": 500,
     "open_issues_count": 0,
     "forks_count": 11
   },
   {
     "full_name": "sindresorhus/type-fest",
-    "stargazers_count": 9165,
+    "stargazers_count": 9189,
     "open_issues_count": 121,
-    "forks_count": 332
+    "forks_count": 331
   },
   {
     "full_name": "PlasmoHQ/plasmo",
-    "stargazers_count": 4518,
-    "open_issues_count": 24,
-    "forks_count": 102
+    "stargazers_count": 4532,
+    "open_issues_count": 21,
+    "forks_count": 103
   },
   {
     "full_name": "espanso/espanso",
-    "stargazers_count": 6104,
+    "stargazers_count": 6126,
     "open_issues_count": 294,
-    "forks_count": 179
+    "forks_count": 181
   },
   {
     "full_name": "RimacTechnology/eslint-config-rimac",
