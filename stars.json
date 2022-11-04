@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "johnnesky/beepbox",
+    "stargazers_count": 485,
+    "open_issues_count": 24,
+    "forks_count": 103
+  },
+  {
     "full_name": "ComfortablyCoding/strapi-plugin-transformer",
     "stargazers_count": 59,
     "open_issues_count": 0,
@@ -7,7 +13,7 @@
   },
   {
     "full_name": "SalvatorePreviti/js13k-2022",
-    "stargazers_count": 79,
+    "stargazers_count": 81,
     "open_issues_count": 0,
     "forks_count": 8
   },
@@ -19,13 +25,13 @@
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 153766,
-    "open_issues_count": 277,
-    "forks_count": 25673
+    "stargazers_count": 154080,
+    "open_issues_count": 275,
+    "forks_count": 25715
   },
   {
     "full_name": "mkosir/react-parallax-tilt",
-    "stargazers_count": 572,
+    "stargazers_count": 576,
     "open_issues_count": 0,
     "forks_count": 89
   },
@@ -43,31 +49,31 @@
   },
   {
     "full_name": "dataarts/webgl-globe",
-    "stargazers_count": 3392,
+    "stargazers_count": 3395,
     "open_issues_count": 30,
     "forks_count": 1179
   },
   {
     "full_name": "snaplet/postgres-wasm",
-    "stargazers_count": 1838,
+    "stargazers_count": 1851,
     "open_issues_count": 5,
-    "forks_count": 53
+    "forks_count": 55
   },
   {
     "full_name": "Rezmason/matrix",
-    "stargazers_count": 2607,
+    "stargazers_count": 2635,
     "open_issues_count": 6,
-    "forks_count": 130
+    "forks_count": 131
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 8612,
-    "open_issues_count": 11,
-    "forks_count": 359
+    "stargazers_count": 8779,
+    "open_issues_count": 10,
+    "forks_count": 362
   },
   {
     "full_name": "luism6n/insort",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "AykutSarac/jsoncrack.com",
-    "stargazers_count": 18726,
-    "open_issues_count": 36,
-    "forks_count": 902
+    "stargazers_count": 18834,
+    "open_issues_count": 37,
+    "forks_count": 907
   },
   {
     "full_name": "arielbk/pointer-animation",
@@ -91,15 +97,15 @@
   },
   {
     "full_name": "reuseman/flashcards-obsidian",
-    "stargazers_count": 495,
-    "open_issues_count": 57,
+    "stargazers_count": 500,
+    "open_issues_count": 58,
     "forks_count": 46
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 236978,
-    "open_issues_count": 51,
-    "forks_count": 63404
+    "stargazers_count": 237576,
+    "open_issues_count": 49,
+    "forks_count": 63536
   },
   {
     "full_name": "testing-library/testing-library-recorder-extension",
@@ -121,21 +127,21 @@
   },
   {
     "full_name": "strapi-community/strapi-tool-dockerize",
-    "stargazers_count": 113,
-    "open_issues_count": 2,
+    "stargazers_count": 116,
+    "open_issues_count": 1,
     "forks_count": 7
   },
   {
     "full_name": "btholt/complete-intro-to-containers",
-    "stargazers_count": 781,
+    "stargazers_count": 780,
     "open_issues_count": 27,
-    "forks_count": 166
+    "forks_count": 167
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 26300,
-    "open_issues_count": 16276,
-    "forks_count": 2572
+    "stargazers_count": 26387,
+    "open_issues_count": 16424,
+    "forks_count": 2590
   },
   {
     "full_name": "ossjs/release",
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "sindresorhus/type-fest",
-    "stargazers_count": 9189,
-    "open_issues_count": 121,
-    "forks_count": 331
+    "stargazers_count": 9215,
+    "open_issues_count": 120,
+    "forks_count": 334
   },
   {
     "full_name": "PlasmoHQ/plasmo",
-    "stargazers_count": 4532,
-    "open_issues_count": 21,
-    "forks_count": 103
+    "stargazers_count": 4546,
+    "open_issues_count": 23,
+    "forks_count": 104
   },
   {
     "full_name": "espanso/espanso",
-    "stargazers_count": 6126,
-    "open_issues_count": 294,
-    "forks_count": 181
-  },
-  {
-    "full_name": "RimacTechnology/eslint-config-rimac",
-    "stargazers_count": 8,
-    "open_issues_count": 15,
-    "forks_count": 0
+    "stargazers_count": 6176,
+    "open_issues_count": 291,
+    "forks_count": 180
   }
 ]
