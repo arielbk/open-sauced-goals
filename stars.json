@@ -1,7 +1,25 @@
 [
   {
+    "full_name": "coollabsio/coolify",
+    "stargazers_count": 5169,
+    "open_issues_count": 126,
+    "forks_count": 256
+  },
+  {
+    "full_name": "antonmedv/llama",
+    "stargazers_count": 981,
+    "open_issues_count": 14,
+    "forks_count": 33
+  },
+  {
+    "full_name": "Magssch/vscode-react-typescript-boilerplate",
+    "stargazers_count": 8,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "TimMikeladze/tsup-react-package-starter",
-    "stargazers_count": 13,
+    "stargazers_count": 14,
     "open_issues_count": 1,
     "forks_count": 3
   },
@@ -13,19 +31,19 @@
   },
   {
     "full_name": "marnusw/date-fns-tz",
-    "stargazers_count": 690,
+    "stargazers_count": 693,
     "open_issues_count": 36,
     "forks_count": 69
   },
   {
     "full_name": "johnnesky/beepbox",
-    "stargazers_count": 490,
+    "stargazers_count": 492,
     "open_issues_count": 24,
-    "forks_count": 104
+    "forks_count": 105
   },
   {
     "full_name": "ComfortablyCoding/strapi-plugin-transformer",
-    "stargazers_count": 64,
+    "stargazers_count": 65,
     "open_issues_count": 0,
     "forks_count": 8
   },
@@ -43,13 +61,13 @@
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 155618,
-    "open_issues_count": 276,
-    "forks_count": 25911
+    "stargazers_count": 155867,
+    "open_issues_count": 277,
+    "forks_count": 25950
   },
   {
     "full_name": "mkosir/react-parallax-tilt",
-    "stargazers_count": 590,
+    "stargazers_count": 592,
     "open_issues_count": 0,
     "forks_count": 93
   },
@@ -61,33 +79,33 @@
   },
   {
     "full_name": "arielbk/use-favicon",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "dataarts/webgl-globe",
-    "stargazers_count": 3402,
+    "stargazers_count": 3403,
     "open_issues_count": 30,
     "forks_count": 1177
   },
   {
     "full_name": "snaplet/postgres-wasm",
-    "stargazers_count": 1898,
+    "stargazers_count": 1903,
     "open_issues_count": 5,
     "forks_count": 54
   },
   {
     "full_name": "Rezmason/matrix",
-    "stargazers_count": 2780,
+    "stargazers_count": 2786,
     "open_issues_count": 9,
-    "forks_count": 140
+    "forks_count": 139
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 10679,
-    "open_issues_count": 23,
-    "forks_count": 435
+    "stargazers_count": 10952,
+    "open_issues_count": 26,
+    "forks_count": 448
   },
   {
     "full_name": "luism6n/insort",
@@ -103,9 +121,9 @@
   },
   {
     "full_name": "AykutSarac/jsoncrack.com",
-    "stargazers_count": 19609,
+    "stargazers_count": 19806,
     "open_issues_count": 42,
-    "forks_count": 953
+    "forks_count": 958
   },
   {
     "full_name": "arielbk/pointer-animation",
@@ -115,15 +133,15 @@
   },
   {
     "full_name": "reuseman/flashcards-obsidian",
-    "stargazers_count": 518,
-    "open_issues_count": 66,
+    "stargazers_count": 519,
+    "open_issues_count": 67,
     "forks_count": 50
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 239741,
+    "stargazers_count": 240060,
     "open_issues_count": 50,
-    "forks_count": 64061
+    "forks_count": 64157
   },
   {
     "full_name": "testing-library/testing-library-recorder-extension",
@@ -133,7 +151,7 @@
   },
   {
     "full_name": "cypress-io/cypress-recorder-extension",
-    "stargazers_count": 105,
+    "stargazers_count": 106,
     "open_issues_count": 2,
     "forks_count": 2
   },
@@ -145,7 +163,7 @@
   },
   {
     "full_name": "strapi-community/strapi-tool-dockerize",
-    "stargazers_count": 127,
+    "stargazers_count": 130,
     "open_issues_count": 1,
     "forks_count": 7
   },
@@ -157,26 +175,8 @@
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 28036,
-    "open_issues_count": 17417,
-    "forks_count": 2739
-  },
-  {
-    "full_name": "ossjs/release",
-    "stargazers_count": 171,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "trane-project/trane-cli",
-    "stargazers_count": 25,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "trane-project/trane",
-    "stargazers_count": 504,
-    "open_issues_count": 0,
-    "forks_count": 11
+    "stargazers_count": 28143,
+    "open_issues_count": 17663,
+    "forks_count": 2758
   }
 ]
