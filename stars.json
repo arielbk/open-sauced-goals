@@ -1,15 +1,15 @@
 [
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 5169,
-    "open_issues_count": 126,
-    "forks_count": 256
+    "stargazers_count": 5198,
+    "open_issues_count": 122,
+    "forks_count": 259
   },
   {
     "full_name": "antonmedv/llama",
-    "stargazers_count": 981,
-    "open_issues_count": 14,
-    "forks_count": 33
+    "stargazers_count": 1021,
+    "open_issues_count": 13,
+    "forks_count": 36
   },
   {
     "full_name": "Magssch/vscode-react-typescript-boilerplate",
@@ -19,37 +19,37 @@
   },
   {
     "full_name": "TimMikeladze/tsup-react-package-starter",
-    "stargazers_count": 14,
-    "open_issues_count": 1,
+    "stargazers_count": 15,
+    "open_issues_count": 2,
     "forks_count": 3
   },
   {
     "full_name": "snyk-labs/modern-npm-package",
     "stargazers_count": 48,
     "open_issues_count": 6,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "marnusw/date-fns-tz",
-    "stargazers_count": 693,
+    "stargazers_count": 695,
     "open_issues_count": 36,
-    "forks_count": 69
+    "forks_count": 71
   },
   {
     "full_name": "johnnesky/beepbox",
-    "stargazers_count": 492,
+    "stargazers_count": 493,
     "open_issues_count": 24,
-    "forks_count": 105
+    "forks_count": 106
   },
   {
     "full_name": "ComfortablyCoding/strapi-plugin-transformer",
     "stargazers_count": 65,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "SalvatorePreviti/js13k-2022",
-    "stargazers_count": 83,
+    "stargazers_count": 84,
     "open_issues_count": 0,
     "forks_count": 9
   },
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 155867,
+    "stargazers_count": 155996,
     "open_issues_count": 277,
-    "forks_count": 25950
+    "forks_count": 25969
   },
   {
     "full_name": "mkosir/react-parallax-tilt",
@@ -85,27 +85,27 @@
   },
   {
     "full_name": "dataarts/webgl-globe",
-    "stargazers_count": 3403,
+    "stargazers_count": 3406,
     "open_issues_count": 30,
     "forks_count": 1177
   },
   {
     "full_name": "snaplet/postgres-wasm",
-    "stargazers_count": 1903,
+    "stargazers_count": 1906,
     "open_issues_count": 5,
-    "forks_count": 54
+    "forks_count": 55
   },
   {
     "full_name": "Rezmason/matrix",
-    "stargazers_count": 2786,
+    "stargazers_count": 2793,
     "open_issues_count": 9,
     "forks_count": 139
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 10952,
-    "open_issues_count": 26,
-    "forks_count": 448
+    "stargazers_count": 11088,
+    "open_issues_count": 23,
+    "forks_count": 457
   },
   {
     "full_name": "luism6n/insort",
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "Avansai/next-multilingual",
-    "stargazers_count": 149,
+    "stargazers_count": 150,
     "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "AykutSarac/jsoncrack.com",
-    "stargazers_count": 19806,
-    "open_issues_count": 42,
-    "forks_count": 958
+    "stargazers_count": 20044,
+    "open_issues_count": 43,
+    "forks_count": 982
   },
   {
     "full_name": "arielbk/pointer-animation",
@@ -133,19 +133,19 @@
   },
   {
     "full_name": "reuseman/flashcards-obsidian",
-    "stargazers_count": 519,
+    "stargazers_count": 520,
     "open_issues_count": 67,
-    "forks_count": 50
+    "forks_count": 51
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 240060,
-    "open_issues_count": 50,
-    "forks_count": 64157
+    "stargazers_count": 240281,
+    "open_issues_count": 51,
+    "forks_count": 64213
   },
   {
     "full_name": "testing-library/testing-library-recorder-extension",
-    "stargazers_count": 123,
+    "stargazers_count": 124,
     "open_issues_count": 18,
     "forks_count": 0
   },
@@ -153,7 +153,7 @@
     "full_name": "cypress-io/cypress-recorder-extension",
     "stargazers_count": 106,
     "open_issues_count": 2,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "kwinyyyc/strapi-plugin-wysiwyg-react-md-editor",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "strapi-community/strapi-tool-dockerize",
-    "stargazers_count": 130,
+    "stargazers_count": 132,
     "open_issues_count": 1,
     "forks_count": 7
   },
   {
     "full_name": "btholt/complete-intro-to-containers",
-    "stargazers_count": 789,
+    "stargazers_count": 790,
     "open_issues_count": 29,
     "forks_count": 167
   },
   {
     "full_name": "type-challenges/type-challenges",
-    "stargazers_count": 28143,
-    "open_issues_count": 17663,
-    "forks_count": 2758
+    "stargazers_count": 28238,
+    "open_issues_count": 17798,
+    "forks_count": 2771
   }
 ]
